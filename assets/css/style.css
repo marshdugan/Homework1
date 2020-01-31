@@ -15,12 +15,13 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+mark {
+    background-color: #2a607c;
     color: #d9dcd6;
 }
 
